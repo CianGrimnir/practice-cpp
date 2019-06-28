@@ -1,2 +1,2 @@
-# practice-cpp
- Part of my daily plan for studying C++.
+# C++ Practice
+Sources and assets for personal study.
