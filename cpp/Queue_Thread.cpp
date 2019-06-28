@@ -1,5 +1,4 @@
 #include<stdio.h>
-//#include "Queue.cpp"
 #include "Queue.h"
 #include<pthread.h>
 #ifdef MAX
